@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrathamAhuja1
+- 👋 Hi, I’m PrathamAhuja
 - 👀 I’m interested in Machine Learning, Android App Development, Web Development and DSA
 - 🌱 I’m currently learning Web Developement 
 - 💞️ I’m looking to collaborate on Developemnt and Machine Learning projects

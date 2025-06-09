@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PrathamAhuja
-- 👀 I’m interested in Machine Learning, Android App Development, Web Development and DSA
-- 🌱 I’m currently learning Web Developement 
+- 👀 I’m interested in Machine Learning, Data Analysis and DSA
+- 🌱 I’m currently developing my skills in Machine Learning and DSA
 - 💞️ I’m looking to collaborate on Developemnt and Machine Learning projects
 - 📫 How to reach me  Linkedin: www.linkedin.com/in/prathamahuja1
 - 😄 Pronouns: He/Him
